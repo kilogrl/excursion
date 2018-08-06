@@ -1,0 +1,21 @@
+h1 {font-weight: normal;
+    font-size: 50px;
+    color: white;
+  }
+a{color: aquamarine;
+  font-size: 16px;
+  }
+html{background-color: black;
+    text-align: center;
+    font-family: Verdana;
+   }
+.two{font-weight: 300;
+     font-size: 42px;
+   }
+.logo{text-align: right;
+      color: gray;
+      font-size: 21px;
+}
+h2{font-size: 21px;
+  font-weight: 300;
+   color: gray}
